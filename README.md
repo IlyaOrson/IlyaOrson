@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Check my [personal website](https://ilyaorson.gitlab.io/blog/) for more info about me 😄
+
+Play with unpredictability with my interactive chaos simulator! 🔮🖱️⤵️
+
+<a href="https://ilyaorson.github.io/KickedRotor/">
+<img src="https://github.com/user-attachments/assets/c32b871e-99e0-4b9d-b994-79daeec8d4c7" width="50%" height="auto">
+</a>
+
 <!--
 **IlyaOrson/IlyaOrson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
