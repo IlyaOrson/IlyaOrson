@@ -2,7 +2,7 @@
 
 Check my [personal website](https://ilyaorson.gitlab.io/blog/) for more info about me 😄
 
-Play with unpredictability with my interactive chaos simulator!🔮 ⤵️⤵️⤵️
+Play with unpredictability with my interactive chaos simulator!🔮🖱️👇
 
 <a href="https://ilyaorson.github.io/KickedRotor/">
 <img src="https://github.com/user-attachments/assets/96bece26-0f6f-41b4-82f9-7d8a462c5011" width="50%" height="auto">
