@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check my [personal website](https://ilyaorson.gitlab.io/blog/) for more info about me 😄
+Check my [personal website](https://ilyaorson.gitlab.io/) for more info about me 😄
 
 Play with unpredictability with my interactive chaos simulator!🔮🖱️👇
 
